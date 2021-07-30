@@ -17,7 +17,7 @@
     "node": "14.5.0"
   },
   "publishConfig": {
-    "registry":"https://registry.npmjs.org"
+    "registry":"https://npm.pkg.github.com"
   },
-  "repository":"https://github.com/lizzethgd/lizzethgd.github.io.git"
+  "repository":"git://github.com/lizzethgd/lizzethgd.github.io.git"
 }
