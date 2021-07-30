@@ -18,5 +18,6 @@
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
-  }
+  },
+  "repository":"git://github.com/lizzethgd/lizzethgd.github.io.git"
 }
