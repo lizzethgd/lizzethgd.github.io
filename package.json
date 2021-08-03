@@ -11,7 +11,8 @@
   "author": "Lizzeth Garcia",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node": "^14.17.4"
   },
   "engines": {
     "node": "14.5.0"
@@ -19,5 +20,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lizzethgd/lizzethgd.github.io.git"
-}
+  }
 }
