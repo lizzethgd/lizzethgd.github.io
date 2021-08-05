@@ -23,7 +23,6 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/lizzethgd/lizzethgd.github.io.git"
+    "git": "git://github.com/lizzethgd/lizzethgd.github.io.git"
   }
 }
